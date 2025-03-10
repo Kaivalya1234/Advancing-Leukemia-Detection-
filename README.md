@@ -20,11 +20,12 @@ offering significant promise for real-time clinical implementation and transform
 - **Python Version:** 3.8+ required
 - **Google Colab:** Runs in a browser, no installation needed
 
-### Running on Google Colab
+# Running on Google Colab
 1. Open [Google Colab](https://colab.research.google.com/).
 2. Upload the `.ipynb` notebook or open it directly from GitHub.
 3. Install required dependencies (if not pre-installed) by running:
    ```python
    !pip install -r requirements.txt
 
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow torch opencv-python
 
