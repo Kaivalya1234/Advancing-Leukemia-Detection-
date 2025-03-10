@@ -11,3 +11,20 @@ offering significant promise for real-time clinical implementation and transform
 # 🔗 Dataset Link  
 [Download from Kaggle](https://www.kaggle.com/datasets/mehradaria/leukemia)  
 
+# Hardware Requirements
+- **Google Colab:** No local hardware required, runs in the cloud.
+- **Local Setup:** Minimum 8GB RAM (Recommended: GPU with NVIDIA GTX 1650 or better for deep learning tasks).
+
+# Software Requirements
+- **Operating System:** Windows / Linux / macOS
+- **Python Version:** 3.8+ required
+- **Google Colab:** Runs in a browser, no installation needed
+
+### Running on Google Colab
+1. Open [Google Colab](https://colab.research.google.com/).
+2. Upload the `.ipynb` notebook or open it directly from GitHub.
+3. Install required dependencies (if not pre-installed) by running:
+   ```python
+   !pip install -r requirements.txt
+
+
